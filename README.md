@@ -26,6 +26,8 @@ pip install -r requirements.txt
 Dentro do repositório será encontrado o arquivo _classificador.py_
 com o código comentado.
 
+Caso utilize o Jupyter NoteBook pode utilizar o arquivo _classificador.ipynb_.
+
 ### Dados do classificador.
 O classificador utiliza um arquivo para treinar o algoritmo, _data_base.csv_, e um arquivo
  para realizar a classificação, _classificar.txt_.
