@@ -7,7 +7,7 @@ utilizando a linguagem de programação **Python** e as bibliotecas
 O classificador vai receber textos e classifica-los entre as polaridades
 **positivo**, **negativo** e **neutro**.
 
-O classificador deve obeter 65% de precisão.
+O classificador deve obter 65% de precisão.
 
 ### Instalação
 1. Clone o repositório.
